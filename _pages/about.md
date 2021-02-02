@@ -1,0 +1,13 @@
+---
+layout: page
+title: About
+---
+We are living in insane times at the moment. What on earth is going on in the world? In this blog I attempt to humbly offer my own interpretation.
+
+We have been in a unique monetary experiment since 1971 known as the Petrodollar. Such a currency only lasts around 30 years. Thus that takes us to 2001. By lasting until 2008, it lasted quite well. However that system began to collapse then, and is still in collapse now. I believe current events show that, and that we are slowly headed back to the pre-1971 era of the Gold Standard. The incoming era will see great prosperity and a fairer system for all. 
+
+How did you the reader survive this lockdown? I undertook two projects. The first was to get my own small media platform underway. This blog is the fruit of that effort. It's written in a language called Jekyll. My main efforts have been to teach myself the language of Java. I have wished to delve into it since 2000 I found a fantastic site "Cave of Programming" and learn this every day. I am trying to develop a new financial index for the new economic system which will I believe come into being.
+
+My other strategy was to secure a year round supply of food from my own hand. I have long had a food garden. However this year I made it more intensive, and built a Squeare Foot Garden which is surprisingly productive. We are able to eat a salad every day, and I have also gone potato mad, planting seed potatoes by the dozen to see how much extra food I can produce. The probem of a garden is - what does one eat in the winter? To that end I developed a "hot bed" heated by horse manure in early spring. To cover the deep winter I hope to develop a "microgreen" system. I also created a flower garden to attract the bees, and I developed a relationship with my local food suppliers, taking in their waste food either to cook or compost. I haven't cooked and baked this much in years. I also have fruit trees, grapes and hops.
+
+I have been long interested in esoterica, from the Dan Brown books further back to the origins of that story in southern France as to who the real Jesus was, did he found a Royal bloodline, what exactly is Christianity? It is my opinion that religion is going to make a comeback in the next decades. People are becoming made aware that the "elites" are into some very dark practices, some into Satanism, and this is being exposed as we live now.
