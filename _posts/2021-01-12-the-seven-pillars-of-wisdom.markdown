@@ -6,9 +6,18 @@ tags: [jekyll, blog]
 
 Right then,
 
-So over the next seven posts I am going to take you through the tools this group use to retain their powerful position. By the time we are done, you should be able to join the Brotherhopod itself Just when you get to the door, don't say I sent you!
+I am beginning a series of posts to attempt a revival of what are known as the Trivium and Quadrivium. The Crime Writer Dorothy L Sayers wrote this in 1948. 
 
-Thank you for your attention to my jottings. I have other posts coming, such as how I use waste food, my activities in coding in Java, and others of a more "conspiratorial" nature such as Gnosticism, Christianity, Freemasonry and the crazy stuff going on now.
+[The Lost Tools of Learning](https://www.pccs.org/wp-content/uploads/2016/06/LostToolsOfLearning-DorothySayers.pdf)
+
+Grammar, Logic and Rhetoric
+
+Astronomy, Music, Mathematics, Geometry.
+
+Thank you for your attention to my jottings. I have other posts coming, such as gardening, health and fitness, my activities in coding in Java, and others of a more "conspiratorial" nature such as Gnosticism, Christianity, Freemasonry and the crazy stuff going on now.
 
 So, if you have any input, drop a comment below this post using the "Disqus" system. I look forward to hearing from all of you!
 
+The below Youtube is a programme which gives a flavour of my interests such as the identity of the real Jesus, the codes hidden in the Bible, Rennes le Chateau in Languedoc, France, the mysteries behind the Da Vinci Code. It mentions a place in Ladakh, India, Hemis which I visited in 1992. This village has a unique aura.
+
+{% youtube TEvomvO8cb0 %}
