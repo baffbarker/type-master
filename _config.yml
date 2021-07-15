@@ -29,6 +29,7 @@ plugins:
 
 include:
   - _pages
+  - .nojekyll
 
 exclude:
   - vendor
